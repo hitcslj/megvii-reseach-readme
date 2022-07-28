@@ -1,15 +1,3 @@
-# megvii-reseach-readme
-
-## MEGVII ![visitors](https://visitor-badge.glitch.me/badge?page_id=hitcslj/hitcslj) 
-
-### Hi there 👋
-_**[[Homepage](https://en.megvii.com/megvii_research)]   [[bilibili](https://space.bilibili.com/504693811/?spm_id_from=333.999.0.0)]  **_
-
-##  Research
-
-
-| name                                                         | description                                                  | star                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [ECCV2022-RIFE](https://github.com/megvii-research/ECCV2022-RIFE) | ECCV2022-Real-Time Intermediate Flow Estimation for Video Frame Interpolation. | ![Github stars](https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?label=star&color=red) |
 | [ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint) | ICCV2019 - Learning to Paint With Model-based Deep Reinforcement Learning. | ![Github stars](https://img.shields.io/github/stars/megvii-research/ICCV2019-LearningToPaint?label=star&color=red) |
 | [ML-GCN](https://github.com/megvii-research/ML-GCN) | PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019. | ![Github stars](https://img.shields.io/github/stars/megvii-research/ML-GCN?label=star&color=red) |
@@ -78,11 +66,3 @@ _**[[Homepage](https://en.megvii.com/megvii_research)]   [[bilibili](https://spa
 | [hpnevergrad](https://github.com/megvii-research/hpnevergrad) | A nevergrad extension for hpman | ![Github stars](https://img.shields.io/github/stars/megvii-research/hpnevergrad?label=star&color=red) |
 | [revisitAIRL](https://github.com/megvii-research/revisitAIRL) | [ECCV2022] Revisiting the Critical Factors of Augmentation-Invariant Representation Learning | ![Github stars](https://img.shields.io/github/stars/megvii-research/revisitAIRL?label=star&color=red) |
 | [basecore](https://github.com/megvii-research/basecore) | basecore is a simple repo that provides deep learning frame for MegEngine. | ![Github stars](https://img.shields.io/github/stars/megvii-research/basecore?label=star&color=red) |
-
-
-
-
-
-
-
-
