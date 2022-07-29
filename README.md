@@ -123,4 +123,4 @@ _**[[Homepage](https://en.megvii.com/megvii_research)]   [[bilibili](https://spa
 | [ACON](https://github.com/megvii-model/ACON) | CVPR 2021 Activate or Not: Learning Customized Activation | <a href="https://github.com/megvii-model/ACON"><img src="https://img.shields.io/github/stars/megvii-model/ACON?label=star&color=red" /></a> |
 | [DiverseBranchBlock](https://github.com/megvii-model/DiverseBranchBlock) | DiverseBranchBlock | <a href="https://github.com/megvii-model/DiverseBranchBlock"><img src="https://img.shields.io/github/stars/megvii-model/DiverseBranchBlock?label=star&color=red" /></a> |
 
-
+</style>
