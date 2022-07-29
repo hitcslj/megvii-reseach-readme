@@ -1,0 +1,16 @@
+ShuffleNet-Series
+YOLOF
+DetNAS
+HINet
+RepVGG
+CrowdDetection
+SinglePathOneShot
+MABN
+FunnelAct
+WeightNet
+LabelEnc
+AngleNAS
+MetaPruning
+RLNAS
+ACON
+DiverseBranchBlock

@@ -1,24 +1,24 @@
 '''
-input : ICCV2019-LearningToPaint
-output :![Github stars](https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?label=ECCV2022-RIFE&color=red)
+input : ECCV2022-RIFE
+output :<a href="https://github.com/megvii-research/ECCV2022-RIFE"><img src="https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?label=star&color=red" /></a>
 '''
 import os
 
 res = []
 
-left = '![Github stars]('
+left = '<a href="https://github.com/megvii-research/'
 
-front = 'https://img.shields.io/github/stars/megvii-research/'
-mid = '?label='
-back = '&color=red'
+mid = '"><img src="https://img.shields.io/github/stars/megvii-research/'
 
-right = ')'
+right = '?label=star&color=red" /></a>'
+
+
 with open('./nameList.txt', 'r') as f:
      lines = f.readlines()
-     for line in lines:
-        line = line.strip()
-        if len(line)==0:break
-        s = left+front+line+mid+'star'+back+right
+     for name in lines:
+        name = name.strip()
+        if len(name)==0:break
+        s = left+name+mid+name+right
         print(s)
         res.append(s)
 print(len(res))

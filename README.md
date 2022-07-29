@@ -1,20 +1,34 @@
+<style>
+table th:first-of-type {
+    width: 4cm;
+}
+table th:nth-of-type(2) {
+    width: 150pt;
+}
+table th:nth-of-type(3) {
+    width: 8em;
+}
+
+
 # megvii-reseach-readme
 
 ## MEGVII ![visitors](https://visitor-badge.glitch.me/badge?page_id=hitcslj/hitcslj) 
 
+<p align="center">
+  <img src="https://cdnstatic.megvii.com/uplaod/image/20220719/67fd8006dbb0bc632cdc35e08890c518ab002684887951d945ecf898f1f88902fd2dd1c2.png">
+</p>
+
 ### Hi there 👋
-_**[[Homepage](https://en.megvii.com/megvii_research)]   [[bilibili](https://space.bilibili.com/504693811/?spm_id_from=333.999.0.0)]  **_
-
-
+_**[[Homepage](https://en.megvii.com/megvii_research)]   [[bilibili](https://space.bilibili.com/504693811/?spm_id_from=333.999.0.0)]**_
 
 
 
 ##  Research
 
 
-| name                                                         | description                                                  | star                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [ECCV2022-RIFE](https://github.com/megvii-research/ECCV2022-RIFE) | ECCV2022-Real-Time Intermediate Flow Estimation for Video Frame Interpolation. | <a href="https://github.com/megvii-research/ECCV2022-RIFE"><img src="https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?label=star&color=red" /></a> |
+| name | desciption |<div style="width:[5cm]">star</div>  |
+| ---- | ---------- | ---- |
+| [ECCV2022-RIFE](https://github.com/megvii-research/ECCV2022-RIFE) | ECCV2022-Real-Time Intermediate Flow Estimation for Video Frame Interpolation. | <a href="https://github.com/megvii-research/ECCV2022-RIFE"><img src="https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?label=star&color=red" /></a>  |
 | [ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint) | ICCV2019 - Learning to Paint With Model-based Deep Reinforcement Learning. | <a href="https://github.com/megvii-research/ICCV2019-LearningToPaint"><img src="https://img.shields.io/github/stars/megvii-research/ICCV2019-LearningToPaint?label=star&color=red" /></a> |
 | [ML-GCN](https://github.com/megvii-research/ML-GCN) | PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019. | <a href="https://github.com/megvii-research/ML-GCN"><img src="https://img.shields.io/github/stars/megvii-research/ML-GCN?label=star&color=red" /></a> |
 | [video_analyst](https://github.com/megvii-research/video_analyst) | A series of basic algorithms that are useful for video understanding, including Single Object Tracking (SOT), Video Object Segmentation (VOS) and so on. | <a href="https://github.com/megvii-research/video_analyst"><img src="https://img.shields.io/github/stars/megvii-research/video_analyst?label=star&color=red" /></a> |
@@ -82,3 +96,31 @@ _**[[Homepage](https://en.megvii.com/megvii_research)]   [[bilibili](https://spa
 | [hpnevergrad](https://github.com/megvii-research/hpnevergrad) | A nevergrad extension for hpman | <a href="https://github.com/megvii-research/hpnevergrad"><img src="https://img.shields.io/github/stars/megvii-research/hpnevergrad?label=star&color=red" /></a> |
 | [revisitAIRL](https://github.com/megvii-research/revisitAIRL) | [ECCV2022] Revisiting the Critical Factors of Augmentation-Invariant Representation Learning | <a href="https://github.com/megvii-research/revisitAIRL"><img src="https://img.shields.io/github/stars/megvii-research/revisitAIRL?label=star&color=red" /></a> |
 | [basecore](https://github.com/megvii-research/basecore) | basecore is a simple repo that provides deep learning frame for MegEngine. | <a href="https://github.com/megvii-research/basecore"><img src="https://img.shields.io/github/stars/megvii-research/basecore?label=star&color=red" /></a> |
+
+
+
+
+
+## Basemodel
+
+
+| name | description | star |
+| ---- | ----------- | ---- |
+| [ShuffleNet-Series](https://github.com/megvii-model/ShuffleNet-Series) | ShuffleNet Series by Megvii Research. | <a href="https://github.com/megvii-model/ShuffleNet-Series"><img src="https://img.shields.io/github/stars/megvii-model/ShuffleNet-Series?label=star&color=red" /></a> |
+| [YOLOF](https://github.com/megvii-model/YOLOF) | You Only Look One-level Feature (YOLOF), CVPR2021 | <a href="https://github.com/megvii-model/YOLOF"><img src="https://img.shields.io/github/stars/megvii-model/YOLOF?label=star&color=red" /></a> |
+| [DetNAS](https://github.com/megvii-model/DetNAS) | DetNAS: Backbone Search for Object Detection | <a href="https://github.com/megvii-model/DetNAS"><img src="https://img.shields.io/github/stars/megvii-model/DetNAS?label=star&color=red" /></a> |
+| [HINet](https://github.com/megvii-model/HINet) | HINet: Half Instance Normalization Network for Image Restoration | <a href="https://github.com/megvii-model/HINet"><img src="https://img.shields.io/github/stars/megvii-model/HINet?label=star&color=red" /></a> |
+| [RepVGG](https://github.com/megvii-model/RepVGG) | RepVGG: Making VGG-style ConvNets Great Again (CVPR-2021) | <a href="https://github.com/megvii-model/RepVGG"><img src="https://img.shields.io/github/stars/megvii-model/RepVGG?label=star&color=red" /></a> |
+| [CrowdDetection](https://github.com/megvii-model/CrowdDetection) | Detection in Crowded Scenes: One Proposal, Multiple Predictions | <a href="https://github.com/megvii-model/CrowdDetection"><img src="https://img.shields.io/github/stars/megvii-model/CrowdDetection?label=star&color=red" /></a> |
+| [SinglePathOneShot](https://github.com/megvii-model/SinglePathOneShot) | Single Path One-Shot by Megvii Research. | <a href="https://github.com/megvii-model/SinglePathOneShot"><img src="https://img.shields.io/github/stars/megvii-model/SinglePathOneShot?label=star&color=red" /></a> |
+| [MABN](https://github.com/megvii-model/MABN) | Moving Average Batch Normalization | <a href="https://github.com/megvii-model/MABN"><img src="https://img.shields.io/github/stars/megvii-model/MABN?label=star&color=red" /></a> |
+| [FunnelAct](https://github.com/megvii-model/FunnelAct) | Funnel Activation for Visual Recognition | <a href="https://github.com/megvii-model/FunnelAct"><img src="https://img.shields.io/github/stars/megvii-model/FunnelAct?label=star&color=red" /></a> |
+| [WeightNet](https://github.com/megvii-model/WeightNet) | WeightNet: Revisiting the Design Space of Weight Network | <a href="https://github.com/megvii-model/WeightNet"><img src="https://img.shields.io/github/stars/megvii-model/WeightNet?label=star&color=red" /></a> |
+| [LabelEnc](https://github.com/megvii-model/LabelEnc) | LabelEnc: A New Intermediate Supervision Method for Object Detection | <a href="https://github.com/megvii-model/LabelEnc"><img src="https://img.shields.io/github/stars/megvii-model/LabelEnc?label=star&color=red" /></a> |
+| [AngleNAS](https://github.com/megvii-model/AngleNAS) | Angle-based Search Space Shrinking for Neural Architecture Search | <a href="https://github.com/megvii-model/AngleNAS"><img src="https://img.shields.io/github/stars/megvii-model/AngleNAS?label=star&color=red" /></a> |
+| [MetaPruning](https://github.com/megvii-model/MetaPruning) | MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning | <a href="https://github.com/megvii-model/MetaPruning"><img src="https://img.shields.io/github/stars/megvii-model/MetaPruning?label=star&color=red" /></a> |
+| [RLNAS](https://github.com/megvii-model/RLNAS) | Neural Architecture Search with Random Labels(RLNAS) | <a href="https://github.com/megvii-model/RLNAS"><img src="https://img.shields.io/github/stars/megvii-model/RLNAS?label=star&color=red" /></a> |
+| [ACON](https://github.com/megvii-model/ACON) | CVPR 2021 Activate or Not: Learning Customized Activation | <a href="https://github.com/megvii-model/ACON"><img src="https://img.shields.io/github/stars/megvii-model/ACON?label=star&color=red" /></a> |
+| [DiverseBranchBlock](https://github.com/megvii-model/DiverseBranchBlock) | DiverseBranchBlock | <a href="https://github.com/megvii-model/DiverseBranchBlock"><img src="https://img.shields.io/github/stars/megvii-model/DiverseBranchBlock?label=star&color=red" /></a> |
+
+

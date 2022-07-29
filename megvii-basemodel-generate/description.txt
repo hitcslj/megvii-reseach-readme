@@ -1,70 +1,16 @@
-ECCV2022-Real-Time Intermediate Flow Estimation for Video Frame Interpolation.
-ICCV2019 - Learning to Paint With Model-based Deep Reinforcement Learning.
-PyTorch implementation of Multi-Label Image Recognition with Graph Convolutional Networks, CVPR 2019.
-A series of basic algorithms that are useful for video understanding, including Single Object Tracking (SOT), Video Object Segmentation (VOS) and so on.
-The official PyTorch implementation of paper BBN: Bilateral-Branch Network with Cumulative Learning for Long-Tailed Visual Recognition.
-Paint artistic patterns using random neural network.
-The state-of-the-art image restoration model without nonlinear activation functions.
-Homepage for the joint course of Megvii Inc. and Peking University on Deep Learning.
-The official implementation of [CVPR2022] Decoupled Knowledge Distillation https://arxiv.org/abs/2203.08679
-Multi-Stage Pose Network
-[ECCV2022] MOTR: End-to-End Multiple-Object Tracking with TRansformer
-An official implementation of the Anchor DETR.
-[ECCV2022] PETR: Position Embedding Transformation for Multi-View 3D Object Detection
-Official MegEngine implementation of CREStereo(CVPR 2022 Oral).
-This repo contains the implementation of our state-of-the-art fewshot object detector, described in our CVPR 2021 paper, FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding.
-Tutorials for deep learning course here.
-"SOLQ: Segmenting Objects by Learning Queries", SOLQ is an end-to-end instance segmentation framework with Transformer.
-This repository contains the official implementation of DPGN: Distribution Propagation Graph Network for Few-shot Learning.
-Official implement of CoNR: Collaborative Neural Rendering using Anime Character Sheets.
-2nd solution of NIPS2017 LearningToRun Competition.
-The official PyTorch implementation of paper Exploring Categorical Regularization for Domain Adaptive Object Detection (CR-DA-DET).
-Official PyTorch implementation of the paper "Deep Constrained Least Squares for Blind Image Super-Resolution", CVPR 2022.
-A hyperparameter manager for deep learning experiments.
-[IJCAI 2022] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer.
-A model compression and acceleration toolbox based pytorch.
-Megvii FILE Library - Working with Files in Python.
-Test-time Local Converter.
-[CVPR2022] Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation.
-Feature Space Singularity for Out-of-Distribution Detection(SafeAI 2021). 
-Course materials for Introduction to Neural 3D Reconstruction.
-PyTorch implementation of SSQL (Accepted to ECCV2022 oral presentation).
-Implementation of the Deep Deterministic Policy Gradient(DDPG) in bullet Gym using pytorch.
-Official implementation of the paper "Progressive End-to-End Object Detection in Crowded Scenes".
-torch version of instant-ngp, image rendering.
-Official code for CVPR 2022 paper "Relieving Long-tailed Instance Segmentation via Pairwise Class Balance".
-RealFlow: EM-based Realistic Optical Flow Dataset Generation from Videos[ECCV 2022 Oral].
-1st Solution For NeurIPS 2021 Competition on ML4CO Dual Task.
-A codebase & model zoo for pretrained backbone based on MegEngine.
-The official PyTorch implementation of the paper "Motion Basis Learning for Unsupervised Deep Homography Estimation with Subspace Projection".
-Slides with modifications for a course at Tsinghua University.
-Cascade Pyramid Netwrok.
-Official Implementation of the detection self-distillation framework LGD.
-Learning Optical Flow with Adaptive Graph Reasoning (AGFlow, AAAI-2022).
-[ACMMM 2022] Learnability Enhancement for Low-light Raw Denoising: Where Paired Real Data Meets Noise Modeling.
-Arch-Net: Model Distillation for Architecture Agnostic Model Deployment.
-MM2022 Workshop-Perceptual Conversational Head Generation with Regularized Driver and Enhanced Renderer.
-Official pytorch implementation of ProtoCLIP in paper Prototypical Contrastive Language Image Pretraining.
-Co-mining: Self-Supervised Learning for Sparsely Annotated Object Detection, AAAI 2021.
-PyTorch implementation of KPA-Flow. Learning Optical Flow with Kernel Patch Attention (CVPR-2022).
-[ECCV 2022] The official experimental code of "Sobolev Training for Implicit Neural Representations with Approximated Image Derivatives".
-PyTorch implementation of A Lightweight Encoder-Decoder Path for Deep Residual Networks.
-argparse extension for hpman.
-PyTorch implementation of Delving Deep into Spatial Pooling for Squeeze-and-Excitation Networks.
-JuiceFS Python SDK.
-The official MegEngine implementation of the ECCV 2022 paper: Ghost-free High Dynamic Range Imaging with Context-aware Transformer.
-Official implementation of the FST-Matching Model.
-Megvii Electric Moped Detector (ONNX based inference).
-Code for ECCV2022 paper 'KD-MVS: Knowledge Distillation Based Self-supervised Learning for Multi-view Stereo'.
-CV Master , bilibili, megstudio 
-Official MegEngine implementation of ECCV2022 "D2C-SR: A Divergence to Convergence Approach for Real-World Image Super-Resolution".
-[ECCV2022] Motion Sensitive Contrastive Learning for Self-supervised Video Representation.
-This repo is the official megengine implementation of the ECCV2022 paper: Efficient One Pass Self-distillation with Zipf's Label Smoothing.
-[CVPR2022] Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer.
-Pytorch version of GeneGAN
-[CVPR2022] Unsupervised Homography Estimation with Coplanarity-Aware GAN
-A nevergrad extension for hpman
-[ECCV2022] Revisiting the Critical Factors of Augmentation-Invariant Representation Learning
-basecore is a simple repo that provides deep learning frame for MegEngine.
-
-
+ShuffleNet Series by Megvii Research.
+You Only Look One-level Feature (YOLOF), CVPR2021
+DetNAS: Backbone Search for Object Detection
+HINet: Half Instance Normalization Network for Image Restoration
+RepVGG: Making VGG-style ConvNets Great Again (CVPR-2021)
+Detection in Crowded Scenes: One Proposal, Multiple Predictions
+Single Path One-Shot by Megvii Research.
+Moving Average Batch Normalization
+Funnel Activation for Visual Recognition
+WeightNet: Revisiting the Design Space of Weight Network
+LabelEnc: A New Intermediate Supervision Method for Object Detection
+Angle-based Search Space Shrinking for Neural Architecture Search
+MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning
+Neural Architecture Search with Random Labels(RLNAS)
+CVPR 2021 Activate or Not: Learning Customized Activation
+DiverseBranchBlock
