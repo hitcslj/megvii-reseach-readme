@@ -13,4 +13,3 @@
 [MetaPruning](https://github.com/megvii-model/MetaPruning)
 [RLNAS](https://github.com/megvii-model/RLNAS)
 [ACON](https://github.com/megvii-model/ACON)
-[DiverseBranchBlock](https://github.com/megvii-model/DiverseBranchBlock)

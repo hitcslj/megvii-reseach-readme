@@ -15,7 +15,7 @@ _**[[Homepage](https://en.megvii.com/megvii_research)]   [[bilibili](https://spa
 ##  Research
 
 
-| name | desciption |<div style="width:[5cm]">star</div>  |
+| name | desciption | star   |
 | ---- | ---------- | ---- |
 | [ECCV2022-RIFE](https://github.com/megvii-research/ECCV2022-RIFE) | ECCV2022-Real-Time Intermediate Flow Estimation for Video Frame Interpolation. | <a href="https://github.com/megvii-research/ECCV2022-RIFE"><img src="https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?label=star&color=red" /></a>  |
 | [ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint) | ICCV2019 - Learning to Paint With Model-based Deep Reinforcement Learning. | <a href="https://github.com/megvii-research/ICCV2019-LearningToPaint"><img src="https://img.shields.io/github/stars/megvii-research/ICCV2019-LearningToPaint?label=star&color=red" /></a> |
@@ -110,6 +110,5 @@ _**[[Homepage](https://en.megvii.com/megvii_research)]   [[bilibili](https://spa
 | [MetaPruning](https://github.com/megvii-model/MetaPruning) | MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning | <a href="https://github.com/megvii-model/MetaPruning"><img src="https://img.shields.io/github/stars/megvii-model/MetaPruning?label=star&color=red" /></a> |
 | [RLNAS](https://github.com/megvii-model/RLNAS) | Neural Architecture Search with Random Labels(RLNAS) | <a href="https://github.com/megvii-model/RLNAS"><img src="https://img.shields.io/github/stars/megvii-model/RLNAS?label=star&color=red" /></a> |
 | [ACON](https://github.com/megvii-model/ACON) | CVPR 2021 Activate or Not: Learning Customized Activation | <a href="https://github.com/megvii-model/ACON"><img src="https://img.shields.io/github/stars/megvii-model/ACON?label=star&color=red" /></a> |
-| [DiverseBranchBlock](https://github.com/megvii-model/DiverseBranchBlock) | DiverseBranchBlock | <a href="https://github.com/megvii-model/DiverseBranchBlock"><img src="https://img.shields.io/github/stars/megvii-model/DiverseBranchBlock?label=star&color=red" /></a> |
 
  

@@ -13,4 +13,3 @@ Angle-based Search Space Shrinking for Neural Architecture Search
 MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning
 Neural Architecture Search with Random Labels(RLNAS)
 CVPR 2021 Activate or Not: Learning Customized Activation
-DiverseBranchBlock

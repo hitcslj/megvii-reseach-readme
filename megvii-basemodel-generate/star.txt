@@ -13,4 +13,3 @@
 <a href="https://github.com/megvii-model/MetaPruning"><img src="https://img.shields.io/github/stars/megvii-model/MetaPruning?label=star&color=red" /></a>
 <a href="https://github.com/megvii-model/RLNAS"><img src="https://img.shields.io/github/stars/megvii-model/RLNAS?label=star&color=red" /></a>
 <a href="https://github.com/megvii-model/ACON"><img src="https://img.shields.io/github/stars/megvii-model/ACON?label=star&color=red" /></a>
-<a href="https://github.com/megvii-model/DiverseBranchBlock"><img src="https://img.shields.io/github/stars/megvii-model/DiverseBranchBlock?label=star&color=red" /></a>

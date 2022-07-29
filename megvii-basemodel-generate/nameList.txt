@@ -13,4 +13,3 @@ AngleNAS
 MetaPruning
 RLNAS
 ACON
-DiverseBranchBlock
