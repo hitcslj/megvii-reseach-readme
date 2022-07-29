@@ -6,9 +6,9 @@ import os
 
 res = []
 
-left = '<a href="https://github.com/megvii-research/'
+left = '<a href="https://github.com/MegviiRobot/'
 
-mid = '"><img src="https://img.shields.io/github/stars/megvii-research/'
+mid = '"><img src="https://img.shields.io/github/stars/MegviiRobot/'
 
 right = '?label=star&color=red" /></a>'
 
