@@ -36,7 +36,7 @@ with open('./star.txt', 'r') as f:
 
 res = []
 for name,description,star in zip(names,descriptions,stars):
-    s = '| '+name +' | ' + description+' | ' + star + ' |'
+    s = '| '+name +'   '+ star +' | ' + description+' |'
     res.append(s)
     print(s)
 

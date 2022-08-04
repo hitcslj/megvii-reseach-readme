@@ -10,7 +10,7 @@ left = '<a href="https://github.com/megvii-model/'
 
 mid = '"><img src="https://img.shields.io/github/stars/megvii-model/'
 
-right = '?label=star&color=red" /></a>'
+right = '?style=social" /></a>'
 
 
 with open('./nameList.txt', 'r') as f:

@@ -1,6 +1,6 @@
 '''
 input : ECCV2022-RIFE
-output :<a href="https://github.com/megvii-research/ECCV2022-RIFE"><img src="https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?label=star&color=red" /></a>
+output :<a href="https://github.com/megvii-research/ECCV2022-RIFE"><img src="https://img.shields.io/github/stars/megvii-research/ECCV2022-RIFE?style=social" /></a>
 '''
 import os
 
@@ -10,7 +10,7 @@ left = '<a href="https://github.com/megvii-research/'
 
 mid = '"><img src="https://img.shields.io/github/stars/megvii-research/'
 
-right = '?label=star&color=red" /></a>'
+right = '?style=social" /></a>'
 
 
 with open('./nameList.txt', 'r') as f:
