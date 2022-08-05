@@ -1,0 +1,3 @@
+BEVDepth is a new 3D object detector with a trustworthy depth estimation.
+YOLOX is an anchor-free version of YOLO, with a simpler design but better performance! It aims to bridge the gap between research and industrial communities.
+This project provides an implementation for our ECCV2022 paper "DenseTeacher: Dense Pseudo-Label for Semi-supervised Object Detection" on PyTorch.
