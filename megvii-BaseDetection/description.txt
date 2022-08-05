@@ -1,3 +1,14 @@
 BEVDepth is a new 3D object detector with a trustworthy depth estimation.
 YOLOX is an anchor-free version of YOLO, with a simpler design but better performance! It aims to bridge the gap between research and industrial communities.
-This project provides an implementation for our ECCV2022 paper "DenseTeacher: Dense Pseudo-Label for Semi-supervised Object Detection" on PyTorch.
+DenseTeacher: Dense Pseudo-Label for Semi-supervised Object Detection
+End-to-End Object Detection with Fully Convolutional Network
+The aim of cvpods is to achieve efficient experiments management and smooth tasks-switching
+Distribution Alignment: A Unified Framework for Long-tail Visual Recognition
+Generalized Few-Shot Object Detection without Forgetting
+Learning Dynamic Routing for Semantic Segmentation
+Optimal Transport Assignment for Object Detection
+BorderDet: Border Feature for Dense Object Detection
+LLA is the first one-stage detector that surpasses two-stage detectors (e.g., Faster R-CNN) on CrowdHuman dataset
+This project provides a cuda implementation for "Learnable Tree Filter for Structure-preserving Feature Transform" (NeurIPS2019) on PyTorch
+AutoAssign: Differentiable Label Assignment for Dense Object Detection
+

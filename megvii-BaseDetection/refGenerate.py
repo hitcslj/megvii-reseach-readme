@@ -7,7 +7,7 @@ import os
 
 
 res = []
-front = 'https://github.com/MegviiRobot/'
+front = 'https://github.com/Megvii-BaseDetection/'
 
 with open('./nameList.txt', 'r') as f:
      lines = f.readlines()
