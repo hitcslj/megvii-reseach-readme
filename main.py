@@ -10,7 +10,7 @@ def read(file_name):
             res.append(line)
     return res
 res = []
-file_names = ['megvii-research-generate/table.txt','megvii-basemodel-generate/table.txt','megvii-BaseDetection/table.txt','megvii-3D-generate/table.txt']
+file_names = ['megvii-research-generate/table.txt','megvii-basemodel-generate/table.txt','megvii-BaseDetection/table.txt','megvii-3D-generate/table.txt','megvii-MegEngine/table.txt']
 for file_name in file_names:
     res += read(file_name)
 res.sort()

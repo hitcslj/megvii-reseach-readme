@@ -1,0 +1,25 @@
+MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架
+Efficient ML solution for long-tailed demands
+采用MegEngine实现的各种主流深度学习模型
+MegSpot是一款高效、专业、跨平台的图片&视频对比应用
+Official MegEngine implementation of RepLKNet
+Megpeak is a tool for testing processor peak computation, now support arm, x86 and GPU driven by OpenCL processor.
+ECCV2020 - Practical Deep Raw Image Denoising on Mobile Devices
+NBNet: Noise Basis Learning for Image Denoising with Subspace Projection
+基于旷视研究院领先的深度学习算法，提供满足多业务场景的预训练模型
+MegEngine implementation of YOLOX
+CUDA Templates for Linear Algebra Subroutines
+A communication library for deep learning
+MegEngine Documentations
+This is the official implementation of the paper "Instance-conditional Knowledge Distillation for Object Detection", based on MegEngine and Pytorch
+MegEngine到其他框架的转换器
+The official MegEngine implementation of the ICCV 2021 paper: GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning
+天元（MegEngine）的周边资源，包括技术文章、活动、最新资讯等。
+MegEngine Official Documentation
+Official MegEngine Implementation of Real-Time Intermediate Flow Estimation for Video Frame Interpolation
+modified cutlass
+OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration, ICCV 2021, MegEngine implementation
+An end to end ASR Transformer model training repo
+This is the official MegEngine implementation of FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration, AAAI 2022
+Swin-Transformer implementation in MegEngine. This is a showcase for training on GPU with less memory by leveraging MegEngine DTR technique
+NeRF implementation in MegEngine
