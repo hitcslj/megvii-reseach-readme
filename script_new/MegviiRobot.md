@@ -1,0 +1,7 @@
+| 仓库名 | 爬取的简介 |
+|-------|-----------|
+| [CamLaserCalibraTool](https://github.com/MegviiRobot/CamLaserCalibraTool) <a href='https://github.com/MegviiRobot/CamLaserCalibraTool'><img src='https://img.shields.io/github/stars/MegviiRobot/CamLaserCalibraTool?style=social' /></a> | Extrinsic Calibration of a Camera and 2d Laser |
+| [CamOdomCalibraTool](https://github.com/MegviiRobot/CamOdomCalibraTool) <a href='https://github.com/MegviiRobot/CamOdomCalibraTool'><img src='https://img.shields.io/github/stars/MegviiRobot/CamOdomCalibraTool?style=social' /></a> | The tool to calibrate extrinsic param between camera and wheel |
+| [MegBA](https://github.com/MegviiRobot/MegBA) <a href='https://github.com/MegviiRobot/MegBA'><img src='https://img.shields.io/github/stars/MegviiRobot/MegBA?style=social' /></a> | MegBA: A GPU-Based Distributed Library for Large-Scale Bundle Adjustment |
+| [OdomLaserCalibraTool](https://github.com/MegviiRobot/OdomLaserCalibraTool) <a href='https://github.com/MegviiRobot/OdomLaserCalibraTool'><img src='https://img.shields.io/github/stars/MegviiRobot/OdomLaserCalibraTool?style=social' /></a> | Extrinsic Calibration of a Odom and 2d Laser |
+| [TP-LSD](https://github.com/MegviiRobot/TP-LSD) <a href='https://github.com/MegviiRobot/TP-LSD'><img src='https://img.shields.io/github/stars/MegviiRobot/TP-LSD?style=social' /></a> | Official implementation of paper "TP-LSD: Tri-points based line segment detector" . |

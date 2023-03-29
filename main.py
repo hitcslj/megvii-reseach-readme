@@ -1,5 +1,3 @@
-
-
 def read(file_name):
     res = []
     with open(file_name, 'r') as f:
