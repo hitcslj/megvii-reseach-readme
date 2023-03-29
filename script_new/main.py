@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-personal_access_token = "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" # your_personal_access_token
+personal_access_token = "" # your_personal_access_token
 headers = {
     'Accept': 'application/vnd.github+json',
     'Authorization': f"token {personal_access_token}"
